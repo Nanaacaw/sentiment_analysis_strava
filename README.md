@@ -6,7 +6,7 @@ This project is a sentiment analysis study focusing on public opinions about jok
 
 ## Project Goals
 
-- Analyze sentiments from social media comments (X and TikTok) regarding joki Strava.
+- Analyze sentiments from social media comments tiktok regarding joki Strava.
 - Identify patterns of public perception (positive, negative, neutral).
 - Provide insights to SOKO Finansial for educational campaigns.
 
